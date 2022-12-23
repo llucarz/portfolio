@@ -1,0 +1,187 @@
+##--  HEAD  --##
+
+head:
+  title: LUCARZ Léo
+
+##--  HEADER  --##
+
+header:
+  1: Acceuil
+  2: A propos
+  3: Formation
+  4: Compétences
+  5: Experience
+  6: Contact
+  7: LUCARZ Léo
+
+##--  HERO  --##
+
+hero:
+  id: hero
+  title: "BTS SIO"
+  under_title: "LUCARZ Léo"
+  text_content: "Bienvenue sur mon portefolio."
+
+##--  ABOUT  --##
+
+about:
+  id: about
+  title: "A propos"
+  under_title: "Qui suis-je ?"
+  text_content: "Je m'appelle LUCARZ Léo, j'ai 20ans. Je suis titulaire du bac STI 2D et après une année à l’IUT, je souhaite poursuivre ma formation dans l’informatique et plus particulièrement dans tous ce qui touche aux réseaux et aux serveurs."
+  second_text_content: "Je fais partie d’un groupe qui prépare et configure des serveurs virtuels pour des jeux vidéo multi-joueur online. Dans le groupe je suis responsable d'une équipe de 3 personnes. Je coordonne les échanges avec les autres équipes du groupe."
+  title_list : "Mes différents formation suivi :"
+  list:
+    - "2018-2019 : BAC PRO MELEC"
+    - "2019-2021 : BAC STI2D"
+    - "2021-2022 : BUT RT en alternance"
+    - "2022-2024 : BTS SIO en alternance"
+
+##--  EXPERIENCE  --##
+
+experience:
+
+##--  SKILLS  --##
+
+skills:
+  title: Mes compétences
+  text_content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, velit nulla modi, ut eos, impedit facilis dolore delectus excepturi quaerat maxime officiis placeat numquam repellendus odio fuga nobis architecto nemo.
+  competence_ok:
+    1:
+      - Compétence
+      - Description compétence
+    2:
+      - Compétence
+      - Description compétence
+    3:
+      - Compétence
+      - Description compétence
+    4:
+      - Compétence
+      - Description compétence
+    5:
+      - Compétence
+      - Description compétence
+    6:
+      - Compétence
+      - Description compétence
+
+##--  FORMATION  --##
+
+formation:
+  title: Portefolio
+  under_title: Liste des experiences pro et projet
+  all: "Tous les projets"
+  exp: "Expérience professionel"
+  cours: "Projet cours"
+  perso: "Projet personnel"
+  contents:
+    1:
+      modal: 1
+      data_cat: exp
+      title: ROMANN electrotechh
+      category: Expérience professionnel
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: blabla
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: blabla
+      modal_title: Stage en electricité
+      annee: 2019
+      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
+      under_modal_title: Informations
+      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
+      title_competence: Technologies
+      competence:
+        - HTML,CSS
+        - JSS
+        - React
+    2:
+      modal: 2
+      data_cat: cours
+      title: ROMANN electrotechh
+      category: Expérience professionnel
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: blabla
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: blabla
+      modal_title: Stage en electricité
+      annee: 2019
+      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
+      under_modal_title: Informations
+      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
+      title_competence: Technologies
+      competence:
+        - HTML,CSS
+        - JSS
+        - React
+    3:
+      modal: 3
+      data_cat: perso
+      title: ROMANN electrotechhh
+      category: Expérience professionnel
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: blabla
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: blabla
+      modal_title: Stage en electricité
+      annee: 2019
+      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
+      under_modal_title: Informations
+      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
+      title_competence: Technologies
+      competence:
+        - HTML,CSS
+        - JSS
+        - yoyo
+        - React
+        - tyty
+    4:
+      modal: 4
+      data_cat: exp
+      title: ROMANN electrotechhh
+      category: Expérience professionnel
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: blabla
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: blabla
+      modal_title: Stage en electricité
+      annee: 2019
+      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
+      under_modal_title: Informations
+      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
+      title_competence: Technologies
+      competence:
+        - HTML,CSS
+        - JSS
+        - yoyo
+        - React
+        - tyty
+    5:
+      modal: 5
+      data_cat: exp
+      title: ROMANN electrotechhh
+      category: Expérience professionnel
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: blabla
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: blabla
+      modal_title: Stage en electricité
+      annee: 2019
+      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
+      under_modal_title: Informations
+      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
+      title_competence: Technologies
+      competence:
+        - HTML,CSS
+        - JSS
+        - yoyo
+        - React
+        - tyty
+
+##--  CONTACT  --##
+
+contact:
+
+##--  FOOTER  --##
+
+footer:

@@ -1,6 +1,5 @@
 <?php
 $about = $data['about'];
-$list = $about ['list'];
 ?>
 <section id="about" class="about">
     <div class="container">
@@ -13,6 +12,8 @@ $list = $about ['list'];
               <h3><?php echo $about['under_title']; ?></h3>
               <p><?php echo $about['text_content']; ?></p>
               <p><?php echo $about['second_text_content']; ?></p>
+              <p><?php echo $about['third_text_content']; ?></p>
+              <p><?php echo $about['fourth_text_content']; ?></p>
             </div>
         </div>
     </div>

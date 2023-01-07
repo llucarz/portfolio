@@ -28,43 +28,46 @@ about:
   id: about
   title: "A propos"
   under_title: "Qui suis-je ?"
-  text_content: "Je m'appelle LUCARZ Léo, j'ai 20ans. Je suis titulaire du bac STI 2D et après une année à l’IUT, je souhaite poursuivre ma formation dans l’informatique et plus particulièrement dans tous ce qui touche aux réseaux et aux serveurs."
-  second_text_content: "Je fais partie d’un groupe qui prépare et configure des serveurs virtuels pour des jeux vidéo multi-joueur online. Dans le groupe je suis responsable d'une équipe de 3 personnes. Je coordonne les échanges avec les autres équipes du groupe."
-  title_list : "Mes différents formation suivi :"
-  list:
-    - "2018-2019 : BAC PRO MELEC"
-    - "2019-2021 : BAC STI2D"
-    - "2021-2022 : BUT RT en alternance"
-    - "2022-2024 : BTS SIO en alternance"
+  text_content: "Titulaire d'un bac sti2d, je m’appelle lucarz leo, né le 08/01/2003. "
+  second_text_content: "Ayant poursuivi une année à l’IUT, j’ai décidé de poursuivre ma formation dans l’informatique plus spécifiquement dans ce qui touche aux serveurs ou aux réseaux. Pour cela, j’ai donc décidé de rejoindre un groupe qui prépare et configure des serveurs virtuels pour des jeux vidéos multi joueurs online."
+  third_text_content: "Je suis donc responsable d’une équipe de 3 personnes dans ce groupe."
+  fourth_text_content: "Je m’occupe également de coordonner les échanges avec les autres membres des différentes équipes du groupe."
 
 ##--  EXPERIENCE  --##
 
 experience:
+  title: "Formation"
+  text_content: "Durant mes différentes années d’études, j’ai eu la chance de suivre différentes formations qui ont pu me permettre d’évoluer chaque annéesDurant mes différentes années d’études, j’ai eu la chance de suivre différentes formations qui ont pu me permettre d’évoluer chaque années."
+  exp1annee: "2018-2019"
+  exp1text: "Après l'optention de mon brevet des collèges. Je suis rentré en BAC PRO MELEC."
+  exp2annee: "2019-2021"
+  exp2text: "Après mon année en BAC PRO j'ai décidé de continuer mes études en STI2D"
+  exp3annee: "2021-2022"
+  exp3text: "J'ai obtenu mon BAS STI2D et j'ai décidé de partir en BUT RT"
+  exp4annee: "2022-2024"
+  exp4text: "Suite à ma formation en BUT qui ne m'a pas plus, j'ai décidé de partir en BTS SIO"
 
 ##--  SKILLS  --##
 
 skills:
   title: Mes compétences
-  text_content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet, velit nulla modi, ut eos, impedit facilis dolore delectus excepturi quaerat maxime officiis placeat numquam repellendus odio fuga nobis architecto nemo.
+  text_content: "J’ai pu également me spécialiser dans différents domaines de compétences, que ce soit en développement ou encore en langues "
   competence_ok:
     1:
-      - Compétence
-      - Description compétence
+      - Office 365
+      - Gestion d'un parc O365, ainsi qu'exchange
     2:
-      - Compétence
-      - Description compétence
+      - Active directory
+      - Gestion parc active directory.
     3:
-      - Compétence
-      - Description compétence
+      - Téléphonie IP
+      - Gestion parc téléphoninque sous mitel, sewan et wazo
     4:
-      - Compétence
-      - Description compétence
+      - Switch, routeur
+      - Configuration switch, routeur, routeur 4g
     5:
-      - Compétence
-      - Description compétence
-    6:
-      - Compétence
-      - Description compétence
+      - FireWall
+      - Création des vpn sur firewall stromshield.
 
 ##--  FORMATION  --##
 
@@ -79,108 +82,182 @@ formation:
     1:
       modal: 1
       data_cat: exp
-      title: ROMANN electrotechh
-      category: Expérience professionnel
-      img1: https://picsum.photos/600/400?random=2
-      alt_img1: blabla
+      title: "ROMANN electrotech"
+      category: "Expérience professionnel"
+      img1: img/Elec1.png
+      alt_img1: "Illustration pour ROMANN Electrotech"
       img2: https://picsum.photos/600/400?random=22
-      alt_img2: blabla
-      modal_title: Stage en electricité
-      annee: 2019
-      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
-      under_modal_title: Informations
-      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
-      title_competence: Technologies
+      alt_img2: "blabla"
+      modal_title: "Stage en electricité"
+      annee: "2019"
+      text_content: "Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller."
+      under_modal_title: "Informations"
+      second_text_content: "Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de"
+      title_competence: "Technologies"
       competence:
-        - HTML,CSS
+        - HTML
         - JSS
         - React
     2:
       modal: 2
-      data_cat: cours
-      title: ROMANN electrotechh
-      category: Expérience professionnel
-      img1: https://picsum.photos/600/400?random=2
-      alt_img1: blabla
-      img2: https://picsum.photos/600/400?random=22
-      alt_img2: blabla
-      modal_title: Stage en electricité
-      annee: 2019
-      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
-      under_modal_title: Informations
-      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
-      title_competence: Technologies
+      data_cat: exp
+      title: "Les Maitres Laitiers"
+      category: "Expérience professionnel"
+      img1: img/LogoMLC.jpeg
+      alt_img1: "Logo des Maitres Laitiers du Cotentin"
+      img2: https://static.actu.fr/uploads/2021/10/mlc.jpg
+      alt_img2: "Photo usine de sottevast"
+      modal_title: "Alternance en hotline informatique"
+      annee: "2021-2022"
+      text_content: "Les Maîtres Laitiers du Cotentin est une coopérative agricole du secteur laitier qui transforme dans ses usines de Sottevast, Valognes et Méautis, pour les marques Valco, Trappe de Bricquebec, Maîtres Laitiers, Montebourg, Val de Saire et Maîtres Laitiers en Normandie."
+      under_modal_title: "Mon expérience acquise"
+      second_text_content: "J'ai pu faire de la création et mise en place de master de déploiement, gestion des comptes mail, gestion des comptes teams, gestion des comptes et groupes dans l’Active Directory, éploiement des outils de gestion de la sécurité et de prise de contrôle sur Pc et smartphone, création d’un site web pour le lancement du nouveau logiciel de hotline interne et réation de document de support sous forme de flyer pour les utilisateurs finaux."
+      title_competence: "Assistance aux utilisateurs"
       competence:
-        - HTML,CSS
-        - JSS
-        - React
+        - "Logiciels métiers"
+        - "Windows"
+        - "Imprimante"
+        - "Smartphone"
+        - "Office 365"
     3:
       modal: 3
-      data_cat: perso
-      title: ROMANN electrotechhh
-      category: Expérience professionnel
+      data_cat: exp
+      title: "EasyW3 & IpAndCom"
+      category: "Expérience professionnel"
       img1: https://picsum.photos/600/400?random=2
-      alt_img1: blabla
+      alt_img1: "blabla"
       img2: https://picsum.photos/600/400?random=22
-      alt_img2: blabla
-      modal_title: Stage en electricité
-      annee: 2019
-      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
-      under_modal_title: Informations
-      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
-      title_competence: Technologies
+      alt_img2: "blabla"
+      modal_title: "Deuxième alternance chez EasyW3 & IpAndCom"
+      annee: "2022"
+      text_content: "Société de services informatiques pour les PME Normandes, depuis 1998 à Caen, EASY W3 exerce sa multi-expertise dans des domaines aussi variés que la vente de matériel informatique et téléphonique, l’infogérance et maintenance de parcs, la sauvegarde de données, la sécurisation de réseaux, la téléphonie sur IP ou encore le développement de sites internet."
+      under_modal_title: "Informations"
+      second_text_content: "Dans le cadre de cette deuxième alternance j'ai pu aprofondir mes compétences en gestion et création de de boite mail o365. J'ai pu aussi faire le préparation de routeur 4g de switch ainsi que de firewall stormshield. J'ai pu aussi découvrir un nouvel outil de gestion de parc informatique et de sartphone."
+      title_competence: "Résumé de mes compétence :"
       competence:
-        - HTML,CSS
-        - JSS
-        - yoyo
-        - React
-        - tyty
+        - Gestion parc O365
+        - Gestion parc informatique
+        - Gestion parc mobile via TinyMDM
+        - Configuration switch
+        - Configuration Firewall Stormshield
+        - Configuration rooter 4g
     4:
       modal: 4
-      data_cat: exp
-      title: ROMANN electrotechhh
-      category: Expérience professionnel
+      data_cat: cours
+      title: "td0/index.html"
+      category: "Site internet"
       img1: https://picsum.photos/600/400?random=2
-      alt_img1: blabla
+      alt_img1: "blabla"
       img2: https://picsum.photos/600/400?random=22
-      alt_img2: blabla
-      modal_title: Stage en electricité
-      annee: 2019
-      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
-      under_modal_title: Informations
-      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
-      title_competence: Technologies
+      alt_img2: "blabla"
+      modal_title: "Création de la base d'un site internet"
+      annee: "2022"
+      text_content: "Dans ce TP nous avons pu voir la structuration d'un site internet en HTML"
+      under_modal_title: "Lien vers le projet"
+      second_text_content: "<a href='tdo0/index.html'>td0/index.html</a>"
+      title_competence: "Language utilisé"
       competence:
-        - HTML,CSS
-        - JSS
-        - yoyo
-        - React
-        - tyty
+        - HTML
     5:
       modal: 5
-      data_cat: exp
-      title: ROMANN electrotechhh
-      category: Expérience professionnel
+      data_cat: cours
+      title: "td0/liste.html"
+      category: "Site internet"
       img1: https://picsum.photos/600/400?random=2
-      alt_img1: blabla
+      alt_img1: "blabla"
       img2: https://picsum.photos/600/400?random=22
-      alt_img2: blabla
-      modal_title: Stage en electricité
-      annee: 2019
-      text_content: Entreprise d'électricité créée par Philippe ROMANN en 1997. Nous vous proposons de l'installation électrique en rénovation, neuf, remise en sécurité, mise en conformité, système d'alarme, système caméra vidéo surveillance, chauffage électrique, éclairage extérieur. Travaillons sur tout le calvados et sa périphérie caennaise. Mr ROMANN Philippe est reconnu maître artisan. Entreprise labellisé Qualifelec. Garantie décennale. Artisan à l'écoute de ses clients qui sait vous conseiller.
-      under_modal_title: Informations
-      second_text_content: Dans le cadre de mon année en BAC PRO MELEC, j'ai du effectuer deux stages d'une durée de
-      title_competence: Technologies
+      alt_img2: "blabla"
+      modal_title: "Création d'une liste en HTML"
+      annee: "2022"
+      text_content: "Dans ce TP nous avons pu la structuration des listes en HTML"
+      under_modal_title: "Lien vers le projet"
+      second_text_content: "<a href='tdo0/liste.html'>td0/liste.html</a>"
+      title_competence: "Language utilisé"
       competence:
-        - HTML,CSS
-        - JSS
-        - yoyo
-        - React
-        - tyty
+        - HTML
+    6:
+      modal: 6
+      data_cat: cours
+      title: "td0/mentions-legales.html"
+      category: "Site internet"
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: "blabla"
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: "blabla"
+      modal_title: "Création d'un site internet portant sur les mentions légal"
+      annee: "2022"
+      text_content: "Dans ce TP nous avons pu mettre en pratique les différents TP vu avant. Ce qui nous à permis de mettre en pratique la structuration d'un site HTML ainsi que des liste HTML. Nous avons aussi pu voir un peu de mise en forme via CSS"
+      under_modal_title: "Lien vers le projet"
+      second_text_content: "<a href='td0/mentions-legales.html'>td0/mentions-legales.html</a>"
+      title_competence: "Language utilisé"
+      competence:
+        - HTML
+        - CSS
+    7:
+      modal: 7
+      data_cat: cours
+      title: "td1/crepes.html"
+      category: "Site internet"
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: "blabla"
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: "blabla"
+      modal_title: "Création d'un site internet portant sur les mentions légal"
+      annee: "2022"
+      text_content: "Ce projet nous à permis de faire notre premier site internet. En poussant un peu plus la mise en forme via CSS. Le projet demandé était de faire un site pour montrer une recette de pate à crêpe."
+      under_modal_title: "Lien vers le projet"
+      second_text_content: "<a href='td1/crepes.html'>td1/crepes.html</a>"
+      title_competence: "Language utilisé"
+      competence:
+        - HTML
+        - CSS
+    8:
+      modal: 8
+      data_cat: cours
+      title: "yaml"
+      category: "Site internet"
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: "blabla"
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: "blabla"
+      modal_title: "Les bases de YAML"
+      annee: "2022"
+      text_content: "Ce projet nous à permis de nous montrer les bases de YAML qui est un addon php. Qui permet d'injecter des chaines de cractères via un fichier externe avec une structuration."
+      under_modal_title: "Lien vers le projet"
+      second_text_content: "<a href='yaml/index.php'>yaml/index.php</a>"
+      title_competence: "Language utilisé"
+      competence:
+        - PHP
+        - YAML
+    9:
+      modal: 9
+      data_cat: perso
+      title: "RetroPizza"
+      category: "Site internet"
+      img1: https://picsum.photos/600/400?random=2
+      alt_img1: "blabla"
+      img2: https://picsum.photos/600/400?random=22
+      alt_img2: "blabla"
+      modal_title: "Création d'un site internet pour la socièté RetroPizza"
+      annee: "2022"
+      text_content: "J'ai eu le plaisir faire une page vitrine pour l'entreprise RetroPizza. Ce site internet est visible à cette adresse internet : <a href='https://retropizza.fr/'>RetroPizza</a>"
+      under_modal_title: "Les compétences utilisé"
+      second_text_content: "Ce projet m'a permis d'en apprendre plus les PHP et JavaScript ainsi que BootStrap. De plus il m'a permis aussi de mettre en place un site internet disponible et utile pour tous. J'ai du héberger le site internet, ainsi que de mettre en place et d'acheter le nom de domaine pour l'entreprise."
+      title_competence: "Résumé de mes compétence :"
+      competence:
+        - HTML
+        - CSS
+        - PHP
+        - JavaScript
+        - BootStrap
+        - Gestion serveur Web
+        - Mise en place nom de domaine.
 
 ##--  CONTACT  --##
 
 contact:
+  title: "Contact"
+  text_content: "Si vous êtes intéressés, ou si besoin de plus amples informations, n’hésitez pas à me contacter si dessous "
 
 ##--  FOOTER  --##
 

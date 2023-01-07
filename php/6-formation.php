@@ -1,7 +1,6 @@
 <?php
 $formation = $data["formation"];
 $contents = $formation["contents"];
-$competence = $contents["competence"];
 ?>
 
 <section id="portfolio" class="portfolio">
@@ -28,8 +27,8 @@ $competence = $contents["competence"];
     <?php foreach($contents as $item => $elements): ?>
         <div class="grid__item">
           <div class="card" data-category="<?php echo $elements['data_cat']?>">
-            <img src="https://picsum.photos/600/400?random=1" loading="lazy" width="365" height="243"
-              alt="projet de la ville" class="card__image">
+            <img src="<?php echo $elements['img1']?>" loading="lazy" width="365" height="243"
+              alt="<?php echo $elements['alt_img1']?>" class="card__image">
             <div class="card__inner">
               <h3 class="card__title"><?php echo $elements['title']?></h3>
               <p class="category"><?php echo $elements['category']?></p>
@@ -62,8 +61,8 @@ $competence = $contents["competence"];
                     <p><?php echo $elements['second_text_content']?></p>
                     <h5 class="h3"><?php echo $elements['title_competence']?></h5>
                     <ul>
-                      <?php foreach($competence as $item):?>
-                      <li><?php echo $item['competence']; ?></li>
+                      <?php foreach($elements['competence'] as $item): ?>
+                      <li><?php echo $item; ?></li>
                       <?php endforeach ?>
                     </ul>
                   </div>

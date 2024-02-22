@@ -1,9 +1,3 @@
-<?php 
-##-- YAML  --##
-$data = yaml_parse_file("./yaml/data.yaml");
-$head = $data['head']
-?>
-
 <!DOCTYPE html>
 
 <html lang="fr">

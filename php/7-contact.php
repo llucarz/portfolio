@@ -1,17 +1,15 @@
-<?php $contact = $data['contact'];?>
-</section>
 <section id="contact" class="contact">
     <div class="container">
         <div class="section-header">
-            <h2 class="section-title"><?php echo $contact['title']?></h2>
-            <p><?php echo $contact['text_content']?></p>
+            <h2 class="section-title">Contact</h2>
+            <p>Si vous êtes intéressés, ou si besoin de plus amples informations, n’hésitez pas à me contacter si dessous.</p>
         </div>
-        <form action="contact.php" class="form">
-            <label for="firstname">
-                <input type="text" name="firstname" id="firstname" placeholder="Nom">
+        <form action="./ConfPHPMailer/mailer.php" class="form" method="POST">
+            <label for="name">
+                <input type="text" name="name" id="name" placeholder="Nom">
             </label>
-            <label for="lastname">
-                <input type="text" name="lastname" id="lastname" placeholder="Prenom">
+            <label for="subject">
+                <input type="text" name="subject" id="subjet" placeholder="Sujet">
             </label>
             <label for="email">
                 <input type="email" name="email" id="email" placeholder="Email">
@@ -22,3 +20,6 @@
         </form>
     </div>
 </section>
+
+
+

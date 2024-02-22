@@ -1,14 +1,10 @@
-<?php
-$hero = $data['hero']
-?>
-
 <section id="hero" class="hero">
     <div class="container">
       <div class="grid">
         <div class="hero__item left">
-          <span><?php echo $hero['title']; ?></span>
-          <h1 class="title"><?php echo $hero['under_title']; ?></h1>
-          <p><?php echo $hero['text_content']; ?></p>
+          <span>BTS SIO</span>
+          <h1 class="title">LUCARZ Léo</h1>
+          <p>Bienvenue sur mon portefolio.</p>
         </div>
         <div class="hero__item right">
           <div class="hero__avatar">

@@ -12,7 +12,7 @@ $head = $data['head']
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php echo $head['title'] ?></title>
+    <title>LUCARZ Léo</title>
     <meta name="description" content="Portefolio de LUCARZ Léo - Alternant - Technicien chez EasyW3">
     <link rel="shortcut icon" href="./img/favicon.ico?v=1" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -29,7 +29,7 @@ $head = $data['head']
 include 'php/1-header.php';
 include 'php/2-hero.php';
 include 'php/3-about.php';
-include 'php/4-experience.php';
+include 'php/4-formation.php';
 include 'php/5-skills.php';
 include 'php/6-formation.php';
 include 'php/7-contact.php';

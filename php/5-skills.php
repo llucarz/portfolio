@@ -1,22 +1,29 @@
-<?php
-$skills = $data['skills']
-?>
 <section id="skills" class="skills">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title"><?php echo $skills['title']; ?></h2>
-        <p><?php echo $skills['text_content']; ?></p>
+        <h2 class="section-title">Mes compétences</h2>
+        <p>J’ai pu également me spécialiser dans différents domaines de compétences, que ce soit en développement ou encore en langues.</p>
       </div>
       <div class="grid">
         <div class="grid__item">
           <h3>Domaines de compétences</h3>
           <ul class="list-unstyled">
-            <?php foreach($skills['competence_ok'] as $item):?>
             <li>
-              <h4><?php echo $item[0];?></h4>
-              <p><?php echo $item[1];?></p>
+              <h4>Office 365</h4>
+              <p>Gestion d'un parc O365, ainsi qu'exchange</p>
             </li>
-            <?php endforeach ?>
+            <li>
+              <h4>Active directory</h4>
+              <p>Gestion parc active directory.</p>
+            </li>
+            <li>
+              <h4>Téléphonie IP</h4>
+              <p>Gestion parc téléphoninque sous mitel, sewan et wazo</p>
+            </li>
+            <li>
+              <h4>Switch, routeur</h4>
+              <p>Configuration switch, routeur, routeur 4g</p>
+            </li>
           </ul>
         </div>
         <div class="grid__item">

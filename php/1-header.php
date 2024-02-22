@@ -1,22 +1,14 @@
-<?php
-
-$header = $data['header'];
-
-?>
-
 <header class="header">
     <div class="container d-flex">
-      <div class="logo">
-        <?php echo $header['7']; ?>
-      </div>
+      <div class="logo">LUCARZ Léo</div>
       <nav class="navbar ">
         <ul class="menu list-unstyled">
-          <li><a href="#hero"><?php echo $header['1']; ?></a></li>
-          <li><a href="#about"><?php echo $header['2']; ?></a></li>
-          <li><a href="#formation"><?php echo $header['3']; ?></a></li>
-          <li><a href="#skills"><?php echo $header['4']; ?></a></li>
-          <li><a href="#experience"><?php echo $header['5']; ?></a></li>
-          <li><a href="#contact"><?php echo $header['6']; ?></a></li>
+          <li><a href="#hero">Acceuil</a></li>
+          <li><a href="#about">A propos</a></li>
+          <li><a href="#services">Formation</a></li>
+          <li><a href="#skills">Compétences</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>
       <div class="right">

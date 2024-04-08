@@ -29,32 +29,32 @@
         <div class="grid__item">
           <h3>Compétences en développement</h3>
           <div class="progressbar">
-            <div class="bar" data-width="75">HTML</div>
+            <div class="bar" data-width="50">HTML</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="75">CSS</div>
+            <div class="bar" data-width="50">CSS</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="45">PHP</div>
+            <div class="bar" data-width="30">PHP</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="30">JAVASCRIPT</div>
+            <div class="bar" data-width="15">JAVASCRIPT</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="50">Python</div>
+            <div class="bar" data-width="40">Python</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="25">MySQL</div>
+            <div class="bar" data-width="10">MySQL</div>
           </div>
           <h3>Compétences en langue</h3>
           <div class="progressbar">
             <div class="bar" data-width="90">Français</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="45">Anglais</div>
+            <div class="bar" data-width="35">Anglais</div>
           </div>
           <div class="progressbar">
-            <div class="bar" data-width="16">Allemand</div>
+            <div class="bar" data-width="5">Allemand</div>
           </div>
         </div>
       </div>

@@ -14,6 +14,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./css/global.css">
     <script src="./js/script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/@simondmc/popup-js@1.4.3/popup.min.js"></script>
 </head>
 
 <body>
@@ -29,6 +30,34 @@ include 'php/6-formation.php';
 include 'php/7-contact.php';
 include 'php/8-footer.php';
 ?>
+
+<script>
+    // Récupérer la valeur de la variable GET 'popup' depuis l'URL
+    const popupToShow = "<?php echo isset($_GET['popup']) ? $_GET['popup'] : ''; ?>";
+    
+    // Exécuter la popup si nécessaire
+    if (popupToShow === 'show') {
+        const popup = new Popup({
+            id: "disclaimer",
+            title: "Information",
+            content:
+                "Votre e-mail a bien été reçu. Je vous remercie de m'avoir contacté. Je vous répondrai dans les plus brefs délais.",
+            sideMargin: "2.9vw",
+            titleColor: "#fff",
+            textColor: "#fff",
+            backgroundColor: "#333333",
+            closeColor: "#fff",
+            fontSizeMultiplier: 1.2,
+            linkColor: "#888",
+            showImmediately: true,
+            hideCallback: () => {
+                window.location.href = "/xampp/portfolio/#contact";
+            },
+        });
+    }
+</script>
+
+
 
 </body>
 </html>

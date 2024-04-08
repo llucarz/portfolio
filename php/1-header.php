@@ -7,7 +7,9 @@
           <li><a href="#about">A propos</a></li>
           <li><a href="#services">Formation</a></li>
           <li><a href="#skills">Compétences</a></li>
-          <li><a href="#experience">Experience</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="https://veille.lucarz.fr" target="_blank">Veille</a></li>
+          <li><a href="https://procedure.lucarz.fr" target="_blank">Procédure</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
       </nav>

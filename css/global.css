@@ -326,7 +326,7 @@ section {
 
 .hero__avatar img {
     width: 100%;
-;
+    ;
 }
 
 @media screen and (max-width:749px) {
@@ -546,7 +546,11 @@ section {
     }
 
     .portfolio-filters .grid__item {
+        max-width: 50%;
+        /*
+        Si 4 catégories
         max-width: 25%;
+        */
     }
 
     .modal__content {
@@ -758,7 +762,7 @@ footer .socials a:hover {
         grid-template-columns: 6fr 2fr;
         grid-column-gap: 2rem;
         grid-template-areas:
-      "article sidebar"
+            "article sidebar"
     }
 
     .article {

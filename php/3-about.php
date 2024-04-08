@@ -7,10 +7,9 @@
             <div class="grid__item">
               <h2 class="section-title">A propos</h2>
               <h3>Qui suis-je ?</h3>
-              <p>Titulaire d'un bac sti2d, je m’appelle lucarz leo, né le 08/01/2003.</p>
-              <p>Ayant poursuivi une année à l’IUT, j’ai décidé de poursuivre ma formation dans l’informatique plus spécifiquement dans ce qui touche aux serveurs ou aux réseaux. Pour cela, j’ai donc décidé de rejoindre un groupe qui prépare et configure des serveurs virtuels pour des jeux vidéos multi joueurs online.</p>
-              <p>Je suis donc responsable d’une équipe de 3 personnes dans ce groupe.</p>
-              <p>Je m’occupe également de coordonner les échanges avec les autres membres des différentes équipes du groupe.</p>
+              <p>Titulaire d'un Bac STI2D, je m'appelle Lucarz Leo, né le 08/01/2003.</p>
+              <p>Après avoir suivi une année à l'IUT en alternance, j'ai décidé de me tourner vers une autre formation, cette fois-ci en BTS. Ce qui m'a poussé à poursuivre mes études dans le domaine de l'informatique est la mise en place d'infrastructures serveurs et réseau. J'ai été membre d'un groupe pendant quelques années, et ensemble, nous avons pu mettre en place des infrastructures pour des serveurs Minecraft. C'est ce qui m'a confirmé que la cybersécurité ainsi que la mise en place d'infrastructures réseau c'est ce que je voudrais faire plus tard.</p>
+              <p>J'arrive aujourd'hui à la fin de ma deuxième année de BTS en alternance. J'ai pu effectuer mes deux années dans l'entreprise EasyW3 à Bretteville-sur-Odon.</p>
             </div>
         </div>
     </div>

@@ -70,7 +70,8 @@ try {
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    echo 'Message has been sent';
+    header("Location: /xampp/portfolio/?popup=show#contact");
+    exit();
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 }
@@ -98,7 +99,9 @@ try {
 
     // Send the email
     $mail2->send();
-    echo 'Confirmation email has been sent';
+    $popup = isset($_GET['popup']) ? $_GET['popup'] : '';
+    header("Location: /xampp/portfolio/?popup=show#contact".$popup);
+    exit();
 } catch (Exception $e) {
     echo "Confirmation email could not be sent. Mailer Error: {$mail2->ErrorInfo}";
 }

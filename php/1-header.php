@@ -3,7 +3,7 @@
       <div class="logo">LUCARZ Léo</div>
       <nav class="navbar ">
         <ul class="menu list-unstyled">
-          <li><a href="#hero">Acceuil</a></li>
+          <li><a href="#hero">Accueil</a></li>
           <li><a href="#about">A propos</a></li>
           <li><a href="#services">Formation</a></li>
           <li><a href="#skills">Compétences</a></li>
@@ -16,7 +16,7 @@
       <div class="right">
         <ul class="socials list-unstyled">
           <li>
-            <a href="https://google.fr">
+            <a href="https://www.linkedin.com/in/l%C3%A9o-lucarz-6a8092212/" target="_blank">
               <svg aria-hidden="true" class="icon linkedin" focusable="false" data-prefix="fab" data-icon="linkedin-in"
                 class="svg-inline--fa fa-linkedin-in fa-w-14" role="img" xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 448 512">

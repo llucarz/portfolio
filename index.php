@@ -51,7 +51,7 @@ include 'php/8-footer.php';
             linkColor: "#888",
             showImmediately: true,
             hideCallback: () => {
-                window.location.href = "/xampp/portfolio/#contact";
+                window.location.href = "/#contact";
             },
         });
     }

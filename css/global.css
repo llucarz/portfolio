@@ -50,6 +50,11 @@ h3,
     font-size: 2.1rem;
 }
 
+.img_title {
+    margin: 0 !important;
+    width: 10%;
+}
+
 a {
     text-decoration: none;
 }

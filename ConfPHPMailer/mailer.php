@@ -70,7 +70,7 @@ try {
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    header("Location: /xampp/portfolio/?popup=show#contact");
+    header("Location: /?popup=show#contact");
     exit();
 } catch (Exception $e) {
     echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";

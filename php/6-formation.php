@@ -2,7 +2,7 @@
 <div class="container">
   <div class="section-header">
     <h2 class="section-title">Portefolio</h2>
-    <p>Liste des experiences pro et projet</p>
+    <p>Voici mes différentes expérience proffessionel et mes différentes certification.</p>
   </div>
   <ul class="grid portfolio-filters list-unstyled">
     <li class="grid__item">

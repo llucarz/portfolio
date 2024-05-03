@@ -2,7 +2,7 @@
     <div class="container">
       <div class="section-header">
         <h2 class="section-title">Mes compétences</h2>
-        <p>J’ai pu également me spécialiser dans différents domaines de compétences, que ce soit en développement ou encore en langues.</p>
+        <p>J’ai évolué dans différents domaines de compétences, que ce soit en informatique, en développement ou encore en langue.</p>
       </div>
       <div class="grid">
         <div class="grid__item">
@@ -10,19 +10,19 @@
           <ul class="list-unstyled">
             <li>
               <h4>Office 365</h4>
-              <p>Gestion d'un parc O365, ainsi qu'exchange</p>
+              <p>Gestion des parcs Office 365 des clients et mise en place d’Exchange</p>
             </li>
             <li>
               <h4>Active directory</h4>
-              <p>Gestion parc active directory.</p>
+              <p>Gestion des parcs d’Active Directory des clients.</p>
             </li>
             <li>
               <h4>Téléphonie IP</h4>
-              <p>Gestion parc téléphoninque sous mitel, sewan et wazo</p>
+              <p>Gestion du parc téléphonique sous Mitel, Sewan et Wazo</p>
             </li>
             <li>
               <h4>Switch, routeur</h4>
-              <p>Configuration switch, routeur, routeur 4g</p>
+              <p>Configuration de switchs, routeurs et routeurs 4g (Cisco, Alcatel, Mikrotik,...)</p>
             </li>
           </ul>
         </div>

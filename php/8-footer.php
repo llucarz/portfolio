@@ -7,7 +7,7 @@
         <div class="grid__item">
           <ul class="socials list-unstyled">
             <li>
-              <a href="https://www.linkedin.com/in/l%C3%A9o-lucarz-6a8092212/" target="_blank">
+              <a href="https://linkedin.com/in/lucarzleo" target="_blank">
                 <svg aria-hidden="true" class="icon linkedin" focusable="false" data-prefix="fab"
                   data-icon="linkedin-in" class="svg-inline--fa fa-linkedin-in fa-w-14" role="img"
                   xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">

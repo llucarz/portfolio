@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">Contact</h2>
-            <p>Si vous êtes intéressés, ou si besoin de plus amples informations, n’hésitez pas à me contacter si dessous.</p>
+            <p>Si mon profil vous intéresse ou si vous avez besoin de plus amples informations n’hésitez pas à me contacter via le formulaire ci-dessous.</p>
         </div>
         <form action="./ConfPHPMailer/mailer.php" class="form" method="POST">
             <label for="name">

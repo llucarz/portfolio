@@ -2,11 +2,11 @@
 <div class="container">
   <div class="section-header">
     <h2 class="section-title">Portefolio</h2>
-    <p>Voici mes différentes expérience proffessionel et mes différentes certification.</p>
+    <p>Voici mes différentes expériences professionnelles et mes différentes certifications.</p>
   </div>
   <ul class="grid portfolio-filters list-unstyled">
     <li class="grid__item">
-      <a href="#" class="active" data-filter="exp">Expérience professionel</a>
+      <a href="#" class="active" data-filter="exp">Expériences professionelles</a>
     </li>
     <li class="grid__item">
       <a href="#" data-filter="cert">Certification</a>

@@ -7,9 +7,10 @@
             <div class="grid__item">
               <h2 class="section-title">A propos</h2>
               <h3>Qui suis-je ?</h3>
-              <p>Titulaire d'un Bac STI2D, je m'appelle Lucarz Leo, né le 08/01/2003.</p>
-              <p>Après avoir suivi une année à l'IUT en alternance, j'ai décidé de me tourner vers une autre formation, cette fois-ci en BTS. Ce qui m'a poussé à poursuivre mes études dans le domaine de l'informatique est la mise en place d'infrastructures serveurs et réseau. J'ai été membre d'un groupe pendant quelques années, et ensemble, nous avons pu mettre en place des infrastructures pour des serveurs Minecraft. C'est ce qui m'a fait prendre conscience que la cybersécurité ainsi que la mise en place d'infrastructures réseau est ce que je souhaite faire plus tard.</p>
-              <p>J'arrive aujourd'hui à la fin de ma deuxième année de BTS en alternance. J'ai pu effectuer mes deux années dans l'entreprise EasyW3 à Bretteville-sur-Odon.</p>
+              <p>Lucarz Leo, né le 08/01/2003.</p>
+              <p>Titulaire du Bac STI2D, j’ai suivi une 1ère année à l'IUT en alternance. A l’issu de cette année, j'ai souhaité me tourner vers une autre formation qui était plus en adéquation avec mes objectifs. Je me suis inscrit dans un BTS dont l’orientation principale est « Infrastructures serveurs et réseau ».</p>
+              <p>Pendant 2 ans, j'ai été membre d'un groupe qui mettait en place des infrastructures virtuelles pour les serveurs Minecraft. Cette expérience m'a permis de définir l’orientation que je souhaitais donner à mes études. J’ai pu découvrir l’enjeu qu’il y avait à construire une architecture réseau fiable, l’importance de la sécurité et de façon plus large de la cybersécurité.</p>
+              <p>J'arrive à la fin de ma deuxième année de BTS en alternance. J'ai effectué mes deux années dans l'entreprise EasyW3 à Bretteville-sur-Odon où j’ai pu développer mes compétences en infrastructure réseau et dans la mise en place des serveurs.</p>
             </div>
         </div>
     </div>

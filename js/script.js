@@ -185,6 +185,7 @@ function tabsFilters() {
 
 tabsFilters()
 
+
 function showProjectDetails() {
     const links = document.querySelectorAll('.card__link');
     const modals = document.querySelectorAll('.modal');

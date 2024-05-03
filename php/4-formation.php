@@ -2,7 +2,7 @@
     <div class="container">
       <div class="section-header">
         <h2 class="section-title">Mes formations</h2>
-        <p>Durant mes différentes années d’études, j’ai eu la chance de suivre différentes formations qui ont pu me permettre d’évoluer chaque années.</p>
+        <p>Durant mes différentes années d’études, j’ai suivi différentes formations qui ont contribué à définir mes choix d'étude et professionnel.</p>
       </div>
       <div class="grid">
         <div class="grid__item">
